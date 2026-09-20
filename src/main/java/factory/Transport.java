@@ -1,4 +1,5 @@
 package factory;
 
-public class Transport {
+public interface Transport {
+    void deliver();
 }
